@@ -1,0 +1,8 @@
+C:/dev/VScode/Projects/C-C++/Chess/build/CMakeFiles/Chess.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/CMakeFiles/edit_cache.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/CMakeFiles/rebuild_cache.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/src/CMakeFiles/chessGame.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/src/CMakeFiles/edit_cache.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/src/CMakeFiles/rebuild_cache.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/vendor/CMakeFiles/edit_cache.dir
+C:/dev/VScode/Projects/C-C++/Chess/build/vendor/CMakeFiles/rebuild_cache.dir
