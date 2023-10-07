@@ -1,2 +1,0 @@
-C:\dev\VScode\VScode_compilers\C-C++\MinGW64\bin\ar.exe qc ..\..\lib\libchessGame.a CMakeFiles/chessGame.dir/Chess/Application.cpp.obj CMakeFiles/chessGame.dir/Chess/Window.cpp.obj CMakeFiles/chessGame.dir/Chess/Rendering/Renderer.cpp.obj CMakeFiles/chessGame.dir/Chess/Rendering/Shader.cpp.obj CMakeFiles/chessGame.dir/Chess/Rendering/VertexArray.cpp.obj CMakeFiles/chessGame.dir/Chess/Rendering/IndexBuffer.cpp.obj CMakeFiles/chessGame.dir/Chess/Rendering/Texture.cpp.obj
-C:\dev\VScode\VScode_compilers\C-C++\MinGW64\bin\ranlib.exe ..\..\lib\libchessGame.a

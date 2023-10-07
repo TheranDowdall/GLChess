@@ -1,1 +1,0 @@
-  -LC:/dev/VScode/Projects/C-C++/Chess/vendor/imgui/lib  -LC:/dev/VScode/Projects/C-C++/Chess/vendor/GLFW/lib  -LC:/dev/VScode/Projects/C-C++/Chess/vendor/glew/lib  ../lib/libchessGame.a -lglfw3 -lopengl32 -lglew32 -lIMGUI -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
